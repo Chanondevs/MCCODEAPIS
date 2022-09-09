@@ -1,0 +1,19 @@
+package me.chanondevs.mccodeapi;
+
+public enum ClickedType {
+
+	MIDDLE,
+	LEFT,
+	RIGHT,
+	LEFT_DOUBLE_CLICK,
+	LEFT_TRIPPLE_CLICK,
+	RIGHT_DOUBLE_CLICK,
+	SHIFT_LEFT_CLICK,
+	SHIFT_RIGHT_CLICK,
+	SHIFT_LEFT_DOUBLE_CLICK,
+	SHIFT_RIGHT_DOUBLE_CLICK,
+	UNKNOW
+	
+	
+	
+}
