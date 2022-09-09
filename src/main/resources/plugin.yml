@@ -2,3 +2,6 @@ name: MCCODEAPI
 version: '${project.version}'
 main: me.chanondevs.mccodeapi.Main
 description: API Make By MCCODE Power By OrizeinTeam
+authors:
+  - Chanondevs
+  - OrizeinTeam

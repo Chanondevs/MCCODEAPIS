@@ -4,7 +4,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Main extends JavaPlugin {
+public class Main extends JavaPlugin {
 
     public static void sendMessageConsole(String message){
         Bukkit.getConsoleSender().sendMessage(message.replaceAll("&","§"));
