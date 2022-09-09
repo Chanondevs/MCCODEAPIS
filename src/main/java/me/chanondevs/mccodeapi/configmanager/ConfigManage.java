@@ -46,6 +46,7 @@ public class ConfigManage {
     public static void saveAll() throws IOException {
         for (ConfigManage file : configManage.values()){
             file.save();
+
         }
     }
 }
