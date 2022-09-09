@@ -55,7 +55,6 @@ public class InventoryClickByOrzEvent extends Event implements Cancellable{
 	@Override
 	public void setCancelled(boolean cancel) {
 		this.cancel = cancel;
-		
 	}
 
 }
